@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ConsultarNfseResposta>
+	<ListaNfse>
+		<CompNfse>
+			<Nfse>
+				<InfNfse Id="id">
+					<Numero>1130</Numero>
+					<CodigoVerificacao>ZQG3-UHSU</CodigoVerificacao>
+					<DataEmissao>2020-08-06</DataEmissao>
+					<NaturezaOperacao>TRIBUTAȃO NO MUNICΐIO</NaturezaOperacao>
+					<OptanteSimplesNacional>sim</OptanteSimplesNacional>
+					<Competencia>202008</Competencia>
+					<Servico>
+						<Valores>
+							<ValorServicos>390.00</ValorServicos>
+							<ValorDeducoes>0.00</ValorDeducoes>
+							<ValorPis>0.00</ValorPis>
+							<ValorCofins>0.00</ValorCofins>
+							<ValorInss>0.00</ValorInss>
+							<ValorIr>0.00</ValorIr>
+							<ValorCsll>0.00</ValorCsll>
+							<IssRetido>2</IssRetido>
+							<ValorIss>7.80</ValorIss>
+							<ValorIssRetido>0</ValorIssRetido>
+							<OutrasRetencoes>0</OutrasRetencoes>
+							<BaseCalculo>390.00</BaseCalculo>
+							<Aliquota>2.00</Aliquota>
+							<ValorLiquidoNfse>390.00</ValorLiquidoNfse>
+							<DescontoIncondicionado>0.00</DescontoIncondicionado>
+							<DescontoCondicionado>0.00</DescontoCondicionado>
+						</Valores>
+						<ItemListaServico>13.02</ItemListaServico>
+						<Discriminacao>LOCAȃO DE UMA MULTIFUNCIONAL BROTHER MFC7860, NOS
+							MESES DE MARȏ `JULHO DE 2020.
+						</Discriminacao>
+						<CodigoMunicipio>2307700</CodigoMunicipio>
+					</Servico>
+					<PrestadorServico>
+						<IdentificacaoPrestador>
+							<CpfCnpj>
+								<Cnpj>12773369000116</Cnpj>
+							</CpfCnpj>
+							<InscricaoMunicipal>7</InscricaoMunicipal>
+						</IdentificacaoPrestador>
+						<RazaoSocial>GEODESIO ANTONIO DE FREITAS SOUZA ME</RazaoSocial>
+						<NomeFantasia>GEOCOPY PAPELARIA ME</NomeFantasia>
+						<Endereco>
+							<Endereco>RUA ANTONIO ACCIOLY,</Endereco>
+							<Numero>20</Numero>
+							<Bairro>CENTRO</Bairro>
+							<CodigoMunicipio>
+								Guai򢡼/CodigoMunicipio>
+								<Uf>
+									CEAR|/Uf>
+									<Cep>61890000</Cep>
+						</Endereco>
+						<Contato>
+							<Telefone>-8533761702</Telefone>
+							<Email>geocopy@hotmail.com</Email>
+						</Contato>
+					</PrestadorServico>
+					<TomadorServico>
+						<IdentificacaoTomador>
+							<CpfCnpj>
+								<Cnpj>07210925000106</Cnpj>
+							</CpfCnpj>
+						</IdentificacaoTomador>
+						<RazaoSocial>MITRA ARQUIDIOCESANA DE FORTALEZA</RazaoSocial>
+						<Endereco>
+							<Endereco>RUA ANTONIO ACCIOLY,</Endereco>
+							<Numero>168</Numero>
+							<Bairro>CENTRO</Bairro>
+							<CodigoMunicipio>
+								Guai򢡼/CodigoMunicipio>
+								<Uf>
+									CEAR|/Uf>
+									<Cep>61890000</Cep>
+						</Endereco>
+						<Contato>
+							<Telefone>-8533761201</Telefone>
+							<Email>remsf@arquidiocesedefortaleza.org.br</Email>
+						</Contato>
+					</TomadorServico>
+					<OrgaoGerador>
+						<CodigoMunicipio>2304954</CodigoMunicipio>
+						<Uf>CE</Uf>
+					</OrgaoGerador>
+					<SituacaoNFSe>EMITIDA</SituacaoNFSe>
+				</InfNfse>
+			</Nfse>
+		</CompNfse>
+	</ListaNfse>
+</ConsultarNfseResposta>
