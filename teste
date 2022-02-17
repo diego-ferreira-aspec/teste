@@ -1,9 +1,4 @@
-x = 5
+x = 1
 x = x + 2
-x = x + 2
-x =2
-x
-yyyy
-iioo
-meu primeiro teste 
-meu segundo commit 
+x = x + 1
+valor de 'X' e 5
